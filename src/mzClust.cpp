@@ -2,6 +2,7 @@
 #include <vector>
 #include <cfloat>
 #include <cmath>
+#include <array>
 
 using namespace Rcpp;
 
